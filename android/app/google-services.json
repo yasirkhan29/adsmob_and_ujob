@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828159516464",
+    "project_id": "ujob-clone-app",
+    "storage_bucket": "ujob-clone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828159516464:android:8d701cacab7832c422b2f5",
+        "android_client_info": {
+          "package_name": "com.example.ujob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828159516464-qv7thmp066o7rrn1pjbkf78n6ik8n8dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqDvRRWjK1dJgZHUxFg-hIs0WldBlowCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828159516464-qv7thmp066o7rrn1pjbkf78n6ik8n8dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
